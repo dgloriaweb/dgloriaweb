@@ -20,13 +20,13 @@ I'm a self-taught php developer with 20 years' executive assistant and office ma
 
 ### Contact me:
 
-[<img src="https://scontent.flhr6-1.fna.fbcdn.net/v/t1.0-9/96402795_106744131040155_4544947243169349632_n.jpg?_nc_cat=111&_nc_sid=85a577&_nc_ohc=vU3iYbofJYEAX-9Y_ly&_nc_ht=scontent.flhr6-1.fna&oh=1a428a5225d6da07df638095ae68b6ba&oe=5F5EA713" width="26px"/>][website]
-[<img src="http://simpleicons.org/icons/twitter.svg" width="26px">][twitter]
+[<img src="https://scontent.flhr6-1.fna.fbcdn.net/v/t1.0-9/96402795_106744131040155_4544947243169349632_n.jpg?_nc_cat=111&_nc_sid=85a577&_nc_ohc=vU3iYbofJYEAX-9Y_ly&_nc_ht=scontent.flhr6-1.fna&oh=1a428a5225d6da07df638095ae68b6ba&oe=5F5EA713" width="26px">](https://babiwes.com/home/about_me/)
+[<img src="http://simpleicons.org/icons/twitter.svg" width="26px">](https://twitter.com/BabiwesCode)
 
 <br/>
-[website]:https://babiwes.com/home/about_me/
-[twitter]:https://twitter.com/BabiwesCode
+<br/>
 
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 <!--
 **dgloriaweb/dgloriaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
