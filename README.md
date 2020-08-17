@@ -26,7 +26,6 @@ I'm a self-taught php developer with 20 years' executive assistant and office ma
 <br/>
 <br/>
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 <!--
 **dgloriaweb/dgloriaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
