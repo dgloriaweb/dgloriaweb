@@ -22,6 +22,8 @@ I'm a self-taught php developer with 20 years' executive assistant and office ma
 
 [<img src="https://scontent.flhr6-1.fna.fbcdn.net/v/t1.0-9/96402795_106744131040155_4544947243169349632_n.jpg?_nc_cat=111&_nc_sid=85a577&_nc_ohc=vU3iYbofJYEAX-9Y_ly&_nc_ht=scontent.flhr6-1.fna&oh=1a428a5225d6da07df638095ae68b6ba&oe=5F5EA713" width="26px">](https://babiwes.com/home/about_me/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="26px">](https://twitter.com/BabiwesCode)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26px">](https://www.linkedin.com/in/beatrix-d-6ab614173/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="26px">](mailto:dgloria.web@gmail.com)
 
 <!-- 1da1f2 twitter -->
 <br/>
