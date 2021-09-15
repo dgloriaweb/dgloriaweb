@@ -1,7 +1,7 @@
 ### Hello, You! Meet me!
 
 ### About me:
-I'm a self-taught php developer with 20 years' executive assistant and office management background. I felt, my job as an administrator didn't exploit my talents, and my curiosity always carried me towards problem solving. I wrote my first code at age 13, on a Commodore VC20, (or plus4, can't remember) in BASIC, I used a for loop to paint the screen red. It was mesmerising. I started to work full time as a PHP dev in 2018, however I first met PHP in 2006 and since he was cheap and easy to handle, it was love at first site. However I hate frameworks, currently I am updating my knowledge in Laravel 7, but keep an eye on Javascript frameworks, see how it goes. I've got 4-5 projects in my cupboard waiting to be born, and come up with new ones every now and then. I currently work as a freelancer, and start my new job in the UK in September 2020. I never had people around me who knew to code, so I'm very happy that coder communities are all over the place, and happy to help. I will one day join as soon as I end being a rookie.
+I enjoy coding and learning new technology. I used to work as an office assistant for nearly 20 years, then I started to work as a self-taught programmer, however I started coding at age 13 with BASIC. My strength is always thinking ahead, trying to come up with solutions that save time and reduce errors, and improving my skills day to day. I like to take a walk at lunchbreaks, I love cycling, hiking, swimming, playing music, and I'm a volunteer at Greensand Trust. I have settled status in the UK as EU citizen, I stay for good. I drive and I own a car.
 
 ### Strengths:
 
