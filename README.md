@@ -20,7 +20,7 @@ Working side by side with CEO and other managers provided experience in corporat
 
 ### Contact me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="26px">](https://twitter.com/BabiwesCode)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="26px">](https://twitter.com/Dgloria_Web)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26px">](https://www.linkedin.com/in/beatrix-d-6ab614173/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="26px">](mailto:dgloria.web@gmail.com)
 
