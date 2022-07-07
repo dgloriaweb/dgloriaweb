@@ -18,10 +18,12 @@ Working side by side with CEO and other managers provided experience in corporat
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/mysql/mysql.png" height="6%" width="6%" />
 </span>
 
+### Portfolio pictures - stuff I've worked on
+https://photos.app.goo.gl/yNsjqicKYQqSji677
+
 ### Contact me:
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="26px">](https://twitter.com/Dgloria_Web)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26px">](https://www.linkedin.com/in/beatrix-d-6ab614173/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="26px">](mailto:dgloria.web@gmail.com)
 
 <!-- 1da1f2 twitter -->
