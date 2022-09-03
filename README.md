@@ -3,6 +3,9 @@
 ### About me:
 I enjoy coding and learning new technology. I used to work as an office assistant for nearly 20 years, then I started to work as a self-taught programmer, however I started coding at age 13 with BASIC. My strength is always thinking ahead, trying to come up with solutions that save time and reduce errors, and improving my skills day to day. I like to take a walk at lunchbreaks, I love cycling, hiking, swimming, playing music, and I'm a volunteer at Greensand Trust. I have settled status in the UK as EU citizen, I stay for good. I drive and I own a car.
 
+### Open for...
+Looking for a job in a scrum team (max 5 devs, 1 manager), agile company. Stack not important, but team should be of different skill level people who don't work in silos. Team should have a slack to communicate especially if the job is fully remote. I don't need micromanagement, but I expect support from the team and the same can be asked of me at all times. 
+
 ### Strengths:
 
 Working side by side with CEO and other managers provided experience in corporate level decisions, interpretation of business requirements to IT team and vica verse, hardware troubleshooting, root cause analysis, finding recurring processeses, advise in replacing those with IT solutions to eliminate errors, see through internal processes, using IT tools to simplify time consuming tasks such as inventory,  document handling, repetitive tasks, data management, reporting, HR tasks, and the list of the things you can learn just by observing goes on forever. 
